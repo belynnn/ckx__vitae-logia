@@ -1,1 +1,62 @@
-# ckx__vitae-logia
+# Vitae Logia
+
+## 🔗 LINKS
+- Notions (private for now) : https://www.notion.so/VitaeLogia-151573054e4180ff8723f3de232a76f3?pvs=4
+- iNaturalist : https://www.inaturalist.org/
+- Biodiversity of Belgium project : https://www.inaturalist.org/projects/biodiversity-of-belgium
+
+## 📋 TO DO
+- ✅ Extraire les 12655 espèces du projet "Biodiversity of Belgium" en date du dimanche 05 janvier 2025, sur le site "iNaturalist.org"
+    - Colonnes à cocher :
+        - image_url
+        - sound_url
+        - scientific_name
+        - common_name
+        - iconic_taxon_name
+        - taxon_kingdom_name
+        - taxon_phylum_name
+        - taxon_subphylum_name
+        - taxon_superclass_name
+        - taxon_class_name
+        - taxon_subclass_name
+        - taxon_superorder_name
+        - taxon_order_name
+        - taxon_suborder_name
+        - taxon_superfamily_name
+        - taxon_family_name
+        - taxon_subfamily_name
+        - taxon_supertribe_name
+        - taxon_tribe_name
+        - taxon_subtribe_name
+        - taxon_genus_name
+        - taxon_genushybrid_name
+        - taxon_species_name
+        - taxon_hybrid_name
+        - taxon_subspecies_name
+        - taxon_variety_name
+        - taxon_form_name 
+    - Catégories à sélectionner :
+        - Autres animaux
+        - Actinoptérygiens
+        - Oiseaux
+        - Reptiles
+        - Amphibiens
+        - Mammifères
+        - Arachnides
+        - Insectes
+        - Plantes
+        - Champignons et Lichens
+        - Protozoaires
+        - Mollusques
+        - Kelp, diatomées et semblables
+        - Inconnu
+
+- ✅ Supprimer les espèces vivantes en doublons
+- ✅ Convertir le fichier final .csv en .json avec l'aide du site "csvjson.com"
+- ✅ Créer un repository "ckx__vitae-logia" sur GitHub, avec un "README.md"
+- ✅ Clôner le repository sur mon pc
+- ✅ Créer un dossier "documentations"
+- ✅ Créer un diagramme de cas d'usage
+- ✅ Exporter le diagrame de cas d'usage en image
+- 🔶 POO : Créer une diagramme de classe
+- 🔶 Test : Créer le projet via Symfony et afficher la liste des espèces vivantes
